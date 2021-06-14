@@ -4,3 +4,11 @@
 ```sh
 Sudo apt update
 ```
+`sudo apt update`
+```c++
+#include <iostream>
+int main() {
+    int i = 15;
+    std::cout << i;
+}
+```
